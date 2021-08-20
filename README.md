@@ -1,4 +1,4 @@
-# Hi there! ! [](wave.gif)
+# Hi there! ![](wave.gif)
 
 I'm a PhD candidate at the University of Cambridge, working hard to simulate and understand the magnetic fields in black hole accretion disks! 
 
