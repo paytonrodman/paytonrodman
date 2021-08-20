@@ -1,4 +1,6 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/paytonrodman/paytonrodman/master/wave.gif" width="30px">
+
+![image](https://raw.githubusercontent.com/paytonrodman/paytonrodman/master/6143714.png) 
 
 I'm a PhD candidate at the University of Cambridge, working hard to simulate and understand the magnetic fields in black hole accretion disks! 
 
