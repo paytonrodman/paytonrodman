@@ -2,7 +2,7 @@
 
 I'm a PhD candidate at the University of Cambridge, working hard to simulate and understand the magnetic fields in black hole accretion disks! 
 
-Originally from <img src="https://image.flaticon.com/icons/png/512/323/323367.png" width="13"/> **Tasmania, Australia**, now in <img src="https://image.flaticon.com/icons/png/512/197/197374.png" width="13"/> **Cambridge, United Kingdom**.
+Originally from **Tasmania, Australia**, now in **Cambridge, the United Kingdom**.
 
 ## GitHub Stats
 <a href="">
